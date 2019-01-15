@@ -1,0 +1,12 @@
+#数据库配置
+mysql:
+      host: 192.168.16.16
+      dbname: test
+      user: root
+      password: 123456
+      port: 3306
+
+memcache:
+         host: 192.168.16.250
+         port: 11211
+

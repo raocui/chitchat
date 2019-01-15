@@ -1,0 +1,52 @@
+2019/01/09 16:48:44 D:/sites/gocode/src/chitchat/controllers/thread.go:78: ed039768-7af0-40d6-6beb-bb311b281695
+2019/01/09 16:48:44 D:/sites/gocode/src/chitchat/models/session.go:70: check true
+2019/01/09 16:48:44 D:/sites/gocode/src/chitchat/controllers/thread.go:82: {20 11c29497-5878-428f-62ca-fba79627459d 2820882234@qq.com 5 0 1547005346}
+2019/01/09 16:48:44 D:/sites/gocode/src/chitchat/controllers/thread.go:83: thread {1 ed039768-7af0-40d6-6beb-bb311b281695 eva test 11111111111 1 1545817076 1545817076}
+2019/01/09 16:48:44 D:/sites/gocode/src/chitchat/controllers/thread.go:84: thread id 1
+2019/01/09 16:48:44 D:/sites/gocode/src/chitchat/controllers/thread.go:88: aaaaaa.posts： [{1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [] 1547003346 1547003346} {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [] 1547003350 1547003350}]
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:78: ed039768-7af0-40d6-6beb-bb311b281695
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/models/session.go:70: check true
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:82: {20 11c29497-5878-428f-62ca-fba79627459d 2820882234@qq.com 5 0 1547005346}
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:83: thread {1 ed039768-7af0-40d6-6beb-bb311b281695 eva test 11111111111 1 1545817076 1545817076}
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:84: thread id 1
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:88: aaaaaa.posts： [{1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [] 1547003346 1547003346} {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [] 1547003350 1547003350}]
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 1
+2019/01/09 16:48:47 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [{6 dfsf 5 0xc042208ba0} {7 22222 5 0xc042208ba0} {8 评论评论 5 0xc042208ba0}] 0 0}
+2019/01/09 16:50:31 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 1
+2019/01/09 16:50:31 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [{6 dfsf 5 0xc0422089c0} {7 22222 5 0xc0422089c0} {8 评论评论 5 0xc0422089c0}] 0 0}
+2019/01/09 16:50:59 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 1
+2019/01/09 16:50:59 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [{6 dfsf 5 0xc042208ba0} {7 22222 5 0xc042208ba0} {8 评论评论 5 0xc042208ba0}] 0 0}
+2019/01/09 16:51:36 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 1
+2019/01/09 16:51:36 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [{6 dfsf 5 0xc0423ee060} {7 22222 5 0xc0423ee060} {8 评论评论 5 0xc0423ee060}] 0 0}
+2019/01/09 16:51:52 D:/sites/gocode/src/chitchat/controllers/thread.go:78: ed039768-7af0-40d6-6beb-bb311b281695
+2019/01/09 16:51:52 D:/sites/gocode/src/chitchat/models/session.go:70: check true
+2019/01/09 16:51:52 D:/sites/gocode/src/chitchat/controllers/thread.go:82: {20 11c29497-5878-428f-62ca-fba79627459d 2820882234@qq.com 5 0 1547005346}
+2019/01/09 16:51:52 D:/sites/gocode/src/chitchat/controllers/thread.go:83: thread {1 ed039768-7af0-40d6-6beb-bb311b281695 eva test 11111111111 1 1545817076 1545817076}
+2019/01/09 16:51:52 D:/sites/gocode/src/chitchat/controllers/thread.go:84: thread id 1
+2019/01/09 16:51:52 D:/sites/gocode/src/chitchat/controllers/thread.go:88: aaaaaa.posts： [{1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [] 1547003346 1547003346} {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [] 1547003350 1547003350}]
+2019/01/09 16:51:55 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 2
+2019/01/09 16:51:55 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [{6 dfsf 5 0xc0423ee420} {7 22222 5 0xc0423ee420} {8 评论评论 5 0xc0423ee420}] 0 0}
+2019/01/09 16:51:58 D:/sites/gocode/src/chitchat/controllers/thread.go:78: ed039768-7af0-40d6-6beb-bb311b281695
+2019/01/09 16:51:58 D:/sites/gocode/src/chitchat/models/session.go:70: check true
+2019/01/09 16:51:58 D:/sites/gocode/src/chitchat/controllers/thread.go:82: {20 11c29497-5878-428f-62ca-fba79627459d 2820882234@qq.com 5 0 1547005346}
+2019/01/09 16:51:58 D:/sites/gocode/src/chitchat/controllers/thread.go:83: thread {1 ed039768-7af0-40d6-6beb-bb311b281695 eva test 11111111111 1 1545817076 1545817076}
+2019/01/09 16:51:58 D:/sites/gocode/src/chitchat/controllers/thread.go:84: thread id 1
+2019/01/09 16:51:58 D:/sites/gocode/src/chitchat/controllers/thread.go:88: aaaaaa.posts： [{1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [] 1547003346 1547003346} {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [] 1547003350 1547003350}]
+2019/01/09 16:53:07 D:/sites/gocode/src/chitchat/controllers/thread.go:78: ed039768-7af0-40d6-6beb-bb311b281695
+2019/01/09 16:53:07 D:/sites/gocode/src/chitchat/models/session.go:70: check true
+2019/01/09 16:53:07 D:/sites/gocode/src/chitchat/controllers/thread.go:82: {20 11c29497-5878-428f-62ca-fba79627459d 2820882234@qq.com 5 0 1547005346}
+2019/01/09 16:53:07 D:/sites/gocode/src/chitchat/controllers/thread.go:83: thread {1 ed039768-7af0-40d6-6beb-bb311b281695 eva test 11111111111 1 1545817076 1545817076}
+2019/01/09 16:53:07 D:/sites/gocode/src/chitchat/controllers/thread.go:84: thread id 1
+2019/01/09 16:53:07 D:/sites/gocode/src/chitchat/controllers/thread.go:88: aaaaaa.posts： [{1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [] 1547003346 1547003346} {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [] 1547003350 1547003350}]
+2019/01/09 16:53:08 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 1
+2019/01/09 16:53:08 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [{6 dfsf 5 0xc042034120}] 0 0}
+2019/01/09 16:53:10 D:/sites/gocode/src/chitchat/controllers/thread.go:78: ed039768-7af0-40d6-6beb-bb311b281695
+2019/01/09 16:53:10 D:/sites/gocode/src/chitchat/models/session.go:70: check true
+2019/01/09 16:53:10 D:/sites/gocode/src/chitchat/controllers/thread.go:82: {20 11c29497-5878-428f-62ca-fba79627459d 2820882234@qq.com 5 0 1547005346}
+2019/01/09 16:53:10 D:/sites/gocode/src/chitchat/controllers/thread.go:83: thread {1 ed039768-7af0-40d6-6beb-bb311b281695 eva test 11111111111 1 1545817076 1545817076}
+2019/01/09 16:53:10 D:/sites/gocode/src/chitchat/controllers/thread.go:84: thread id 1
+2019/01/09 16:53:10 D:/sites/gocode/src/chitchat/controllers/thread.go:88: aaaaaa.posts： [{1 a40f090a-78e8-4a51-6b41-45cbd4073624 dfdfd 5 1 [] 1547003346 1547003346} {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [] 1547003350 1547003350}]
+2019/01/09 16:53:11 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 2
+2019/01/09 16:53:11 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [{7 22222 5 0xc04241c6c0} {8 评论评论 5 0xc04241c6c0}] 0 0}
+2019/01/09 16:55:45 D:/sites/gocode/src/chitchat/controllers/thread.go:182: ccccccc 2
+2019/01/09 16:55:45 D:/sites/gocode/src/chitchat/controllers/thread.go:183: {2 f31baf6a-fea4-4843-7f4e-aa8296eb6405 dfsfsfsfsfsf 5 1 [{7 22222 5 0xc04221a0c0} {8 评论评论 5 0xc04221a0c0}] 0 0}

@@ -1,0 +1,16 @@
+{{ define "content" }}
+  
+
+  <div class="panel-body">
+      <span class="lead"> <i class="fa fa-comment"></i>{{.Body}}</span>
+      {{range .Comments}}
+          <div>{{.Content}}</div>
+              <div>post body:{{.Post.Body}}</div>
+      {{end}}
+
+  </div>
+
+
+
+
+{{ end }}
